@@ -1,6 +1,6 @@
 # PulseOps AI - IT Intelligence Platform
 
-🚀 **Live Demo**: https://pulseops-ojelte8nv-manvi-sharmas-projects-2abe8faa.vercel.app
+🚀 **Live Demo**: https://pulseops-jade.vercel.app/
 
 AI-powered platform for IT teams to automate system monitoring, cost optimization, and business intelligence.
 
